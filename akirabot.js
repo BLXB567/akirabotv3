@@ -75,11 +75,11 @@ prefix = '#'
 blocked = []   
 limitawal = '500' //Terserah Mo Ganti apa kgk
 memberlimit = 1 //Terserah Mo Ganti apa kgk
-cr = '*Akira Bot By Akira*'
-vr = '*Akira Bot Wa*\n*Subscribe Akira*'
+cr = '*BLZXB Bot By BLZXB5*'
+vr = '*BLZXB Bot Wa*\n*Subscribe BLXB5*'
 
 //owner number
-const ownerNumber = ["6282158549899@s.whatsapp.net"]  //Ganti Jadi Nomormu
+const ownerNumber = ["6283117436733@s.whatsapp.net"]  //Ganti Jadi Nomormu
 
 //file json
 const _leveling = JSON.parse(fs.readFileSync('./database/group/leveling.json'))
