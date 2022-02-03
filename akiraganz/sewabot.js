@@ -6,7 +6,7 @@ Sewa Sebulan : 10k
 Sewa Permanen : 20k
 
 *Payment :*
-_Gopay, Dana,Qris dan Tsel_
+_Gopay, Dana, dan Axis_
 
 Minat?PC
 Wa.me/6283117436733
