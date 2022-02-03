@@ -3,13 +3,13 @@ const sewabot = () => {
 *OPEN JASA SEWA BOT*
 
 Sewa Sebulan : 10k
-Sewa Permanen : 25k
+Sewa Permanen : 20k
 
 *Payment :*
 _Gopay, Dana,Qris dan Tsel_
 
 Minat?PC
-Wa.me/6282158549899
+Wa.me/6283117436733
 `
 }
 exports.sewabot = sewabot
